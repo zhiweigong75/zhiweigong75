@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhiwei Gong
-- 👀 I’m interested in Medical Image Analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Medical Image Analysis, including registration and segmentation with deep learning platform, statistical shape modeling.
+- 🌱 I’m currently a M.S.E., Applied Mathematics & Statistics student in Johns Hopkins University
+- 💞️ I’m looking to 
 - 📫 How to reach me: email zgong9@jhu.edu
 
 <!---
