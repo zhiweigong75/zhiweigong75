@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhiwei Gong
 - 👀 I’m interested in Medical Image Analysis, including registration and segmentation with deep learning platform, statistical shape modeling.
-- 🌱 I’m currently a M.S.E. student in Applied Mathematics & Statistics at Johns Hopkins University
-- 📫 How to reach me: email zgong9@jhu.edu / zhiweigong75@gmail.com
+- 🌱 I’m currently a Ph.D. student in Artificial Intelligence at University of Pittsburgh
+- 📫 How to reach me: email gongz3@upmc / zhg64@pitt.edu
 
 <!---
 zhiweigong75/zhiweigong75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
